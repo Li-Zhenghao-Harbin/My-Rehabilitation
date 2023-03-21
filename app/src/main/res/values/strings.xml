@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Rehabilitation</string>
+    <!--    menu-->
+    <string name="menu_about">About</string>
+    <!--    buttons-->
+    <string name="btn_introduction">Introduction</string>
+    <string name="btn_scenes">Scenes</string>
+    <string name="btn_cards">Cards</string>
+    <string name="btn_author">Author</string>
+    <!--    introduction-->
+    <string name="tx_introduction">Introduction</string>
+    <string name="tx_goal">Goal</string>
+    <string name="tx_howtoplay">How to play</string>
+    <!--    cards-->
+    <string name="tx_previousPage">Previous</string>
+    <string name="tx_nextPage">Next</string>
+    <!--    scenes-->
+    <string name="tx_menu">Menu</string>
+    <string name="tx_forest">Forest</string>
+    <string name="tx_crossroads">Crossroads</string>
+    <string name="tx_medusa">Medusa</string>
+    <string name="tx_tutorial">Tutorial</string>
+</resources>
